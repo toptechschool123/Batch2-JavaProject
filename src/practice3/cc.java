@@ -24,7 +24,7 @@ public class cc {
 		byte k = (byte) t;
 		System.out.println(k);
 		
-		System.out.println("hi");
+		System.out.println("hi, it is me ");
 
 	}
 
