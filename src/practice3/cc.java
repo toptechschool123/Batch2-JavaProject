@@ -23,8 +23,6 @@ public class cc {
 		int t = 40;
 		byte k = (byte) t;
 		System.out.println(k);
-		
-		System.out.println("hi, it is me ");
 
 	}
 
