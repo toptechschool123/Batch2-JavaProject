@@ -22,6 +22,8 @@ public class Basics extends CellPhone{ //
 	  
 	  System.out.println("it is git and git hub lectures");
 	  
+	  System.out.println("it is day 2 for git and git hub lecutres");
+	  
 
 	}
 
